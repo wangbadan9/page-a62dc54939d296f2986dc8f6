@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.sasaic.cn/sitemap.xml
